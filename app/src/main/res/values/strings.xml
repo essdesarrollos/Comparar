@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comparo</string>
+    <string name="iguales">Son iguales</string>
+    <string name="distintos">Son distintos</string>
+</resources>
